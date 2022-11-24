@@ -1,0 +1,33 @@
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Datos.dll
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Datos.dll
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\PROYECTO FINAL DEL TECNICO\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\bin\Debug\Capa_Datos.dll
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+F:\SistemaTourTravelFINAL\Sistema\TourTravel\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
